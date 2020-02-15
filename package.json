@@ -1,0 +1,35 @@
+{
+  "name": "@grundstein/guix-dev",
+  "version": "0.0.1-alpha.0",
+  "author": "Wizards & Witches @ Work",
+  "homepage": "https://grundstein.github.io/guix-dev",
+  "license": "AGPL-3.0",
+  "description": "NOT YET BENCHMARKED OR IN PRODUCTION! @grundstein/guix-dev. initializes a guix dev environment using qemu and kvm.",
+  "engines": {
+    "node": ">=13.5.0"
+  },
+  "engineStrict": true,
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grundstein/guix-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grundstein/guix-dev/issues"
+  },
+  "keywords": [
+    "grundstein",
+    "guix",
+    "development",
+    "dev",
+    "environment"
+  ],
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    }
+  ]
+}
