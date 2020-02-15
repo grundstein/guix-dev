@@ -8,6 +8,10 @@
   "engines": {
     "node": ">=13.5.0"
   },
+  "scripts": {
+    "start": "bin/start.sh",
+    "build": "bin/build.sh"
+  },
   "engineStrict": true,
   "files": [
     "src"
